@@ -12,3 +12,4 @@
 ## Git flow
 
 - a convention of branches for a particular git workflow
+- there usually are not more new commands. mostly managing branches
