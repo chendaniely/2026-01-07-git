@@ -9,7 +9,9 @@
 5. merge the PR
 6. clean up your branches
 
-## Git flow
+## Git Flow
 
 - a convention of branches for a particular git workflow
 - there usually are not more new commands. mostly managing branches
+
+- An exmaple doc for this workflow: <<https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow>>
