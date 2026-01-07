@@ -8,3 +8,8 @@
 4. make a change to the repository using a branch + PR
 5. merge the PR
 6. clean up your branches
+
+## Git flow
+
+- a convention of branches for a particular git workflow
+- there usually are not more new commands. mostly managing branches
